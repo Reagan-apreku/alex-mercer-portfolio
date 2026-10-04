@@ -4,6 +4,12 @@ Original fictional designer portfolio inspired by the user-supplied jjettas.com 
 ## Run locally
 Serve `dist` using `python3 -m http.server 8080 --directory dist` and open http://localhost:8080. No npm dependencies or bundler required.
 
+## Published project
+- Live website: https://alex-mercer-portfolio-lime.vercel.app
+- GitHub repository: https://github.com/Reagan-apreku/alex-mercer-portfolio
+
+Vercel serves the committed `dist` directory using `vercel.json`. Push changes to `main` to deploy automatically. Run `python3 build-pages.py` before committing changes to the page sources.
+
 ## Pages
 - `/`: cinematic homepage
 - `/work/`: filterable project archive
