@@ -1,0 +1,15 @@
+ALEX MERCER — COMPLETE PORTFOLIO
+
+1. Extract this ZIP.
+2. Open the alex-mercer-portfolio folder in your code editor.
+3. From a terminal in this folder run:
+   python3 -m http.server 8080 --directory dist
+4. Open http://localhost:8080 in your browser.
+
+Use a local server, rather than double-clicking index.html, because page links start from the site root.
+
+The dist folder contains the complete publish-ready website, all 12 pages and every image.
+The content folder and build-pages.py contain editable page sources.
+See README.md for customisation and hosting details.
+
+No paid services or npm installation required to run locally. Python 3 is required for the command above; any static web server also works. Google Fonts require an internet connection, with system fonts as fallbacks.

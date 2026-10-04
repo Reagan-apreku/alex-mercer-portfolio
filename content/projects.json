@@ -1,0 +1,170 @@
+[
+  {
+    "title": "SONOR",
+    "type": "01 / BRAND IDENTITY",
+    "role": "STRATEGY \u00b7 DESIGN \u00b7 ART DIRECTION",
+    "lead": "An independent audio brand, built around the feeling of being completely absorbed in sound.",
+    "story": "The identity starts with a simple tension: technical precision and emotional depth. A burgundy palette, confident typography and considered packaging give the brand a presence that feels intimate and expressive. Every touchpoint is designed to make listening feel like a ritual.",
+    "cover": "assets/sonor.png",
+    "gallery": [
+      {
+        "src": "assets/sonor-2.png",
+        "caption": "Sonor / Typographic poster",
+        "orientation": "portrait",
+        "alt": "Sonor / Typographic poster",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/sonor-4.png",
+        "caption": "Sonor / Product and carry bag",
+        "orientation": "portrait",
+        "alt": "Sonor / Product and carry bag",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/sonor-1.png",
+        "caption": "Sonor / Packaging system",
+        "orientation": "landscape",
+        "alt": "Sonor / Packaging system",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/sonor-3.png",
+        "caption": "Sonor / Stationery and printed details",
+        "orientation": "landscape",
+        "alt": "Sonor / Stationery and printed details",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "title": "VANTA FORM",
+    "type": "02 / PHOTOGRAPHY & ART DIRECTION",
+    "role": "CONCEPT \u00b7 ART DIRECTION \u00b7 IMAGE MAKING",
+    "lead": "A fashion story about taking up space. Sculptural silhouettes meet the quiet geometry of the city.",
+    "story": "The campaign pairs generous tailoring with stark architectural settings. Directional light reveals the structure of each garment, while restrained colour keeps the focus on form, posture and attitude. Portrait and landscape compositions give the story room to move across formats.",
+    "cover": "assets/campaign.png",
+    "gallery": [
+      {
+        "src": "assets/hero.png",
+        "caption": "Vanta Form / Volume and colour",
+        "orientation": "portrait",
+        "alt": "Vanta Form / Volume and colour",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/man.png",
+        "caption": "Vanta Form / Structured utility",
+        "orientation": "portrait",
+        "alt": "Vanta Form / Structured utility",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/vanta-1.png",
+        "caption": "Vanta Form / Movement in the city",
+        "orientation": "landscape",
+        "alt": "Vanta Form / Movement in the city",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/vanta-2.png",
+        "caption": "Vanta Form / Material detail",
+        "orientation": "portrait",
+        "alt": "Vanta Form / Material detail",
+        "width": 1024,
+        "height": 1536
+      }
+    ]
+  },
+  {
+    "title": "OTHER REALITIES",
+    "type": "03 / AI & VISUAL EXPLORATION",
+    "role": "CONCEPT \u00b7 AI DIRECTION \u00b7 VISUAL DEVELOPMENT",
+    "lead": "A study in impossible materials, imagined objects and familiar places that feel just a little unfamiliar.",
+    "story": "This self-initiated exploration uses AI as an image-making tool. The creative direction combines the visual language of sculpture, landscape photography and product design, exploring the contrast between reflective metal, translucent glass and a quiet natural environment.",
+    "cover": "assets/ai-art.png",
+    "gallery": [
+      {
+        "src": "assets/ai-2.png",
+        "caption": "Other Realities / Glass and tension",
+        "orientation": "portrait",
+        "alt": "Other Realities / Glass and tension",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/ai-4.png",
+        "caption": "Other Realities / Lunar orbit",
+        "orientation": "portrait",
+        "alt": "Other Realities / Lunar orbit",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/ai-1.png",
+        "caption": "Other Realities / A suspended gesture",
+        "orientation": "landscape",
+        "alt": "Other Realities / A suspended gesture",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/ai-3.png",
+        "caption": "Other Realities / Reflection study",
+        "orientation": "landscape",
+        "alt": "Other Realities / Reflection study",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "title": "FORM / DIGITAL",
+    "type": "04 / DIGITAL EXPERIENCE",
+    "role": "UI DESIGN \u00b7 CREATIVE DEVELOPMENT",
+    "lead": "An editorial approach to a fashion website. A digital space that gives imagery and typography equal presence.",
+    "story": "The concept translates a fashion identity into a responsive digital experience. Strong type, flexible image proportions and deliberate motion support a simple way to explore the collection. The visual system is designed to move comfortably from a desktop campaign to a small mobile screen. These illustrative interface mockups explore desktop and mobile layouts, with a consistent visual language across the homepage, collection and editorial views.",
+    "cover": "assets/web-1.png",
+    "gallery": [
+      {
+        "src": "assets/web-2.png",
+        "caption": "Form / Mobile collection concept",
+        "orientation": "portrait",
+        "alt": "Form / Mobile collection concept",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/web-4.png",
+        "caption": "Form / Mobile editorial concept",
+        "orientation": "portrait",
+        "alt": "Form / Mobile editorial concept",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "assets/web-3.png",
+        "caption": "Form / Product detail concept",
+        "orientation": "landscape",
+        "alt": "Form / Product detail concept",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "assets/web-5.png",
+        "caption": "Form / Collection grid concept",
+        "orientation": "landscape",
+        "alt": "Form / Collection grid concept",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  }
+]
